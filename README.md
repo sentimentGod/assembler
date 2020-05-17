@@ -1,7 +1,2 @@
-# Alexandr Ivanenko
-# Variant 11
-Alexandr Ivanenko 
+# asm work
 
-Alexandr Ivanenko
-
-Чекаю как работает ридми.
